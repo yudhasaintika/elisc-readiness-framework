@@ -35,12 +35,12 @@ pip install numpy pandas scikit-learn catboost shap scipy
 Exact versions used for the reported results:
 
 ```
-numpy       x.x.x
-pandas      x.x.x
-scikit-learn x.x.x
-catboost    x.x.x
-shap        x.x.x
-scipy       x.x.x
+numpy       2.4.6
+pandas      3.0.3
+scikit-learn 1.9.0
+catboost    1.2.10
+shap        0.52.0
+scipy       1.80.0
 ```
 
 ## Running
