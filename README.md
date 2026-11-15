@@ -1,18 +1,24 @@
 # ELISC: Readiness Assessment Framework for Collaborative eLeadership
 
-Analysis code for the manuscript "A Proposed Readiness Assessment Model for
-Collaborative eLeadership in Smart Cities" (Saintika, Riasetiawan, & Mustofa),
-under review at the *Journal of Computational and Cognitive Engineering*.
+Analysis code and supplementary files for the article "A Proposed Readiness
+Assessment Model for Collaborative eLeadership in Smart Cities" (Saintika,
+Riasetiawan, & Mustofa), accepted for publication in the *Journal of Computational
+and Cognitive Engineering* (2026). https://doi.org/10.47852/bonviewJCCE62029351
 
 The scripts here generate the simulated dataset and reproduce every computational
 result reported in Section 5 of the manuscript and in Supplementary File S3.
 
 ## Contents
 
-| File | Produces |
+| File | Contents |
 |------|----------|
 | `worked_example.py` | Readiness classification, dimension scores, membership function sensitivity, algorithm ablation, SHAP feature importance |
 | `sample_size_analysis.py` | Performance and stability across assessed-sample sizes |
+| `Supplementary_S1_Rule_Base.pdf` | Complete 81-rule base of the fuzzy inference system (Section 4.3) |
+| `Supplementary_S2_Search_Strategy.pdf` | Search strings, database yields, and stage-wise exclusion reasons (Sections 3.1 and 3.2) |
+| `Supplementary_S3_Computational_Results.pdf` | Complete results of all analyses reported in Section 5 |
+| `Supplementary_S4_Source_Code.zip` | Archived copy of the scripts, with the random seed and software versions |
+| `Supplementary_S5_Algorithm.pdf` | Procedural presentation of the complete pipeline (Section 4.4) |
 
 ## Requirements
 
@@ -85,8 +91,9 @@ work in the manuscript.
 
 ## Citation
 
-Citation details will be added once the manuscript is published. In the meantime,
-please cite the repository and note that the associated manuscript is under review.
+Saintika, Y., Riasetiawan, M., & Mustofa, K. (2026). A Proposed Readiness Assessment
+Model for Collaborative eLeadership in Smart Cities. *Journal of Computational and
+Cognitive Engineering*. https://doi.org/10.47852/bonviewJCCE62029351
 
 ## License
 
