@@ -95,6 +95,18 @@ Saintika, Y., Riasetiawan, M., & Mustofa, K. (2026). A Proposed Readiness Assess
 Model for Collaborative eLeadership in Smart Cities. *Journal of Computational and
 Cognitive Engineering*. https://doi.org/10.47852/bonviewJCCE62029351
 
+BibTeX:
+
+```bibtex
+@article{saintika2026elisc,
+  author  = {Saintika, Yudha and Riasetiawan, Mardhani and Mustofa, Khabib},
+  title   = {A Proposed Readiness Assessment Model for Collaborative eLeadership in Smart Cities},
+  journal = {Journal of Computational and Cognitive Engineering},
+  year    = {2026},
+  doi     = {10.47852/bonviewJCCE62029351}
+}
+```
+
 ## License
 
 Released under the MIT License. See [LICENSE](LICENSE) for the full text.
